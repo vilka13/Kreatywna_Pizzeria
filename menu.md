@@ -35,4 +35,13 @@
 - Sałatka Toscana *(mix sałat, pomidor, oliwa z oliwek) -------------------------------------------------------------------------- **19zl**
 - Sałatka Caprese *(świeże pomidory z bazylią, oliwą i mozzarellą galbani) ----------------------------------------------------- **21zl**
 - Sałatka à la cezar *(kurczak, grilowany bekon, mix sałat, oliwki, pomidor,ogórek, czerwona cebula, sos Cezar, grzanki) ---- **31zl**
+
+## Napoje
+|Lp.| rozmiar: 500 ml | cena |
+|---|---------------|----------|
+|1. | Coca-cola | 10zl |
+|2. | Sprite |13 zl|
+|3. | Herbata |11zl|
+|4. | Kawa |15zl|
+|5. | Piwo |20zl|
  
