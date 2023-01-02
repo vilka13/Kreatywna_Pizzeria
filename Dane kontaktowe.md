@@ -1,5 +1,9 @@
-#dane
+# Dane kontaktowe
+-----------------
+## zamów online 
+### www.Kreatywnapizza.pl
+## Zadzwoń i zamów
+### +48123109836
 
-www.Kreatywnapizza.pl
-
-+48123456789
+## Masz problem? zadzwoń
+### +48123456789
