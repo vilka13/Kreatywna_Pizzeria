@@ -1,23 +1,23 @@
 # Menu
 --------------------
-## pizzy:
+## Pizzy:
 
-- Margarita *(z sosem pomidorowym, mozzarellą i bazylią)
-- Pepperoni *(z kiełbaskami pepperoni, sosem pomidorowym i mozzarellą)
-- Wegetariańska *(z mieszanką warzyw, sosem pomidorowym i mozzarellą)
-- Hawajska *(z szynką, ananasem i mozzarellą)
-- Cztery sery *(z różnymi odmianami sera, sosem pomidorowym i mozzarellą)
+- Margarita *(z sosem pomidorowym, mozzarellą i bazylią) ---------------------------------------------------------------------- **20zl**
+- Pepperoni *(z kiełbaskami pepperoni, sosem pomidorowym i mozzarellą) ---------------------------------------------------- **35zl**
+- Wegetariańska *(z mieszanką warzyw, sosem pomidorowym i mozzarellą) ---------------------------------------------------- **29zl**
+- Hawajska *(z szynką, ananasem i mozzarellą) ----------------------------------------------------------------------------------- **31zl**
+- Cztery sery *(z różnymi odmianami sera, sosem pomidorowym i mozzarellą) ------------------------------------------------- **19zl**
 ## Paste:
-- Spaghetti bolognese
-- Spaghetti Napoli
-- Lasagne Bolognese
-- Tagliatelle Forte
+- Spaghetti bolognese ------------------------------------------------------------------------------------------------------------- **23zl**
+- Spaghetti Napoli ----------------------------------------------------------------------------------------------------------------- **24zl**
+- Lasagne Bolognese -------------------------------------------------------------------------------------------------------------- **28zl**
+- Tagliatelle Forte ------------------------------------------------------------------------------------------------------------------ **13zl**
 ## Zupy:
-- Barszcz Czysty
-- Krem pomidorowy
-- Gulaszowa
+- Barszcz Czysty -------------------------------------------------------------------------------------------------------------------- **9zl**
+- Krem pomidorowy ---------------------------------------------------------------------------------------------------------------  **11zl**
+- Gulaszowa ------------------------------------------------------------------------------------------------------------------------ **17zl**
 ## Sałatki
-- Sałatka Toscana *(mix sałat, pomidor, oliwa z oliwek)
-- Sałatka Caprese *(świeże pomidory z bazylią, oliwą i mozzarellą galbani)
-- Sałatka à la cezar *(kurczak, grilowany bekon, mix sałat, oliwki, pomidor,ogórek, czerwona cebula, sos Cezar, grzanki)
- ##
+- Sałatka Toscana *(mix sałat, pomidor, oliwa z oliwek) -------------------------------------------------------------------------- **19zl**
+- Sałatka Caprese *(świeże pomidory z bazylią, oliwą i mozzarellą galbani) ----------------------------------------------------- **21zl**
+- Sałatka à la cezar *(kurczak, grilowany bekon, mix sałat, oliwki, pomidor,ogórek, czerwona cebula, sos Cezar, grzanki) ---- **31zl**
+ 
