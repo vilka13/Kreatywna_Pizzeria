@@ -24,17 +24,47 @@
 
 ## Paste:
 - Spaghetti bolognese ------------------------------------------------------------------------------------------------------------- **23zl**
+
+<img src = "pasta/11691-tomato-and-garlic-pasta-ddmfs-3x4-1-bf607984a23541f4ad936b33b22c9074.jpg" width = 300 >
+
 - Spaghetti Napoli ----------------------------------------------------------------------------------------------------------------- **24zl**
+
+<img src = "pasta/Puttanesca-fd5810c.jpg" width = 300 >
+
 - Lasagne Bolognese -------------------------------------------------------------------------------------------------------------- **28zl**
+
+<img src = "pasta/delish-bucatinipasta-045-ls-1607552701.jpg" width = 300 >
+
 - Tagliatelle Forte ------------------------------------------------------------------------------------------------------------------ **13zl**
+
+<img src = "pasta/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2015__01__20141222-pasta-making-vicky-wasik-50-25f1e346c83144b3b6ae7c3e148578cc.jpg" width = 300 >
+
 ## Zupy:
 - Barszcz Czysty -------------------------------------------------------------------------------------------------------------------- **9zl**
-- Krem pomidorowy ---------------------------------------------------------------------------------------------------------------  **11zl**
+
+<img src = "zupy/857118-v-1500x1500.jpg" width = 300 >
+
+- Krem nie pomidorowy -----------------------------------------------------------------------------------------------------------  **11zl**
+
+<img src = "zupy/4939094-v-1500x1500.jpg" width = 300 >
+
 - Gulaszowa ------------------------------------------------------------------------------------------------------------------------ **17zl**
+
+<img src = "zupy/zupa-gulaszowa2-1.jpg" width = 300 >
+
 ## Sałatki
 - Sałatka Toscana *(mix sałat, pomidor, oliwa z oliwek) -------------------------------------------------------------------------- **19zl**
+
+<img src = "salatka/przepis-na-sałatkę-śródziemnomorską.jpg" width = 300 >
+
 - Sałatka Caprese *(świeże pomidory z bazylią, oliwą i mozzarellą galbani) ----------------------------------------------------- **21zl**
+
+<img src = "salatka/salatka-mozzarella.jpg" width = 300 >
+
 - Sałatka à la cezar *(kurczak, grilowany bekon, mix sałat, oliwki, pomidor,ogórek, czerwona cebula, sos Cezar, grzanki) ---- **31zl**
+
+<img src = "salatka/salatka-serrano-grzanki.jpg" width = 300 >
+
 
 ## Napoje
 |Lp.| rozmiar: 500 ml | cena |
