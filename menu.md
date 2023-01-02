@@ -67,11 +67,13 @@
 
 
 ## Napoje
-|Lp.| rozmiar: 500 ml | cena |
-|---|---------------|----------|
-|1. | Coca-cola | 10zl |
-|2. | Sprite |13 zl|
-|3. | Herbata |11zl|
-|4. | Kawa |15zl|
-|5. | Piwo |20zl|
+|Lp.| rozmiar:                           | 50ml |100ml |500 ml | cena |
+|---|------------------------------------|------|------|-------|------|
+|1. | woda gazowana                      | -    |   -  |     +  | 7 zl|
+|2. | Coca-cola                          | -    |  -   |   +   | 10zl |
+|3. | Sprite                              |  -   |    -  |   +  |13 zl|
+|4. | Herbata                            |-      |   -   |    +  |11zl|
+|5. | Kawa                               |   -   |   +   |   -  |15zl|
+|6. | Piwo                               |   -    |  -    |   + |20zl|
+|7. | Rom                                |   +    |  -    |    -|35zl|
  
