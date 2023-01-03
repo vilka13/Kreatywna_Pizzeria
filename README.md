@@ -1,2 +1,2 @@
 # Kreatywna_Pizzeria
-problem
+To jest zadanie do kierunku Github dla każdego. Project Pizzerii  
