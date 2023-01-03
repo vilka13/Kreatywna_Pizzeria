@@ -7,3 +7,7 @@ Restauracja często oferuje sałatki, antipastos, marynowane warzywa, zupy i inn
 Restauracja posiada kawiarnię z dużymi stołami i krzesłami, a także oferuje **możliwość zamówienia posiłków do domu.**
 
 
+<img src = "item/preview_image20210301-32183-15g2d47.jpg" width = 500 >
+
+
+
