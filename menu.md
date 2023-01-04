@@ -22,6 +22,10 @@
 
 <img src = "katalog pizz/recipe_2c228f9c-38c0-4af0-97b0-4317008e3675_w450.jpg" width = 300 >
 
+- Pizza wegetariańska *(Pasta pomidorowa,Brokuły i Oliwki) -------------------------------------------------------------------- **29zl**
+
+<img src = "katalog pizz/vegetarianskaya-picca_1618512525_12_max.jpg" width = 300 >
+
 ## Paste:
 - Spaghetti bolognese ------------------------------------------------------------------------------------------------------------- **23zl**
 
