@@ -66,6 +66,13 @@
 <img src = "salatka/salatka-serrano-grzanki.jpg" width = 300 >
 
 
+
+## Sosy
+- beszamel (sos mleczny. Jego podstawą jest mleko i biała mąka.) --------------------------------------------------------------- **5zl**
+- velute (biały sos. Jego podstawą jest lekki bulion z kurczaka, cielęcia lub ryby i złocistej mąki) ------------------------------- **7zl**
+- sos pomidorowy (Jego podstawą jest puree z gotowanych pomidorów. Idealny do wieprzowiny i makaronu)  --------------- **5zl**
+
+
 ## Napoje
 |Lp.|                        Rozmiar:    | 50ml |100ml | 250ml |500 ml |700ml |
 |---|------------------------------------|------|------|-------|-------|------|
@@ -76,4 +83,7 @@
 |5. | Kawa                               | 10zl | 13zl |   15zl|  19zl |—     |
 |6. | Piwo                               |   —  |   —  |  19zl |   29zl|—     |
 |7. | Rom                                | 20zl | 35zl |  44zl | 53zl  |77zl  |
+
+
+
  
