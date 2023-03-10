@@ -1,4 +1,4 @@
-# Kreatywna_Pizzeria
+# Creative_pizzeria
 :green_circle: This is a Github direction assignment for everyone
 
 :green_circle: Working with the Makdown language
